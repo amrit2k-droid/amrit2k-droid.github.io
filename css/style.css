@@ -1605,7 +1605,7 @@ align-items: stretch;}
 .capsule {
     background-color: #ddd;
   border: none;
-  color: black;
+  color: green;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -1613,4 +1613,5 @@ align-items: stretch;}
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 16px;
+  text-decoration: bold
 }
